@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-HospitalVet é um sistema simples de gerenciamento de pacientes para um hospital veterinário, desenvolvido em Python utilizando MySQL para armazenamento de dados. O programa permite visualizar, cadastrar, alterar e remover pacientes, oferecendo uma solução prática para o controle de informações de animais em atendimento.
+HospitalVet é um sistema simples de gerenciamento de pacientes para um hospital veterinário, desenvolvido em Python utilizando MySQL para armazenamento de dados. O programa permite visualizar, cadastrar, alterar e remover pacientes.
 
 ## Funcionalidades
 
@@ -15,7 +15,7 @@ HospitalVet é um sistema simples de gerenciamento de pacientes para um hospital
 ## Estrutura do Projeto
 
 - **`setup.py`**: Script para configuração inicial do banco de dados MySQL, criando a estrutura necessária e inserindo dados de exemplo.
-- **`main.py`**: Programa principal contendo a lógica para interação com o usuário e gerenciamento dos dados dos pacientes.
+- **`main.py`**: Arquivo principal contendo a lógica para interação com o usuário e gerenciamento dos dados dos pacientes.
 
 ## Requisitos
 
@@ -41,10 +41,6 @@ HospitalVet é um sistema simples de gerenciamento de pacientes para um hospital
    ```bash
    python main.py
    ```
-
-## Estrutura da Interface
-
-A interface do HospitalVet é baseada em texto e opera por meio de um menu interativo, permitindo fácil navegação e gerenciamento das informações dos pacientes.
 
 ## Contribuição
 
